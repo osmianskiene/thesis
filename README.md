@@ -44,7 +44,7 @@ uv run thesis
 For example, to run univariate analysis, use the following command:
 
 ```bash
-uv run thesis univariate
+uv run thesis univariate:primary
 ```
 
 Some commands have additional parameters. List the parameters of a command by adding `--help` to it. For example:
