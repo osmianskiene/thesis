@@ -1,4 +1,5 @@
 old/
 output/**/*.docx
+!output/a1_outliers_*.docx
 __pycache__/
 .~lock.*#
