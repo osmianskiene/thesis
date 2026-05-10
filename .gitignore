@@ -1,0 +1,4 @@
+old/
+output/**/*.docx
+__pycache__/
+.~lock.*#
